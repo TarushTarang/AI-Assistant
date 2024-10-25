@@ -1,9 +1,9 @@
-# Bumblebee: Virtual AI-Assistant
-A voice-activated assistant with features like Wikipedia integration, reminders, wake-word detection, web automation, and OS control using Python libraries like PyAudio, SpeechRecognition, and Pyttsx3.
-##list of the libraries, technologies, and language I've used in Bumblebee:
-Language:
+<h1> Bumblebee: Virtual AI-Assistant </h1>
+A voice-activated assistant with features like Wikipedia integration, reminders, wake-word detection, web automation, and OS control using Python libraries like PyAudio, SpeechRecognition, and Pyttsx3. <br>
+<h3> list of the libraries, technologies, and language I've used in Bumblebee: </h3>
+<h5> Language: </h5>
   Python
-Libraries/Modules:
+<h5> Libraries/Modules: </h5>
   Speech Recognition: speech_recognition (for voice commands)
   Text-to-Speech: pyttsx3 (for speaking responses)
   Wake-Word Detection: pvporcupine (for detecting "Bumblebee")
